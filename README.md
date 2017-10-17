@@ -5,6 +5,7 @@
 ## Requirements
 - Pillow
 - boto3
+- [AWS credentials](http://boto3.readthedocs.io/en/latest/guide/quickstart.html)
 
 ## What this project do ?
 1. `twiiks.jpg` 파일을 읽어들여 `PIL Image` 객체로 만듭니다.
